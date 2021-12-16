@@ -11,4 +11,4 @@ Input Image:
 
 Result Image:
 
-![Untitled design]C:\Users\soura\OneDrive\Documents\zzzzz\OCR-main\Result.png
+![Untitled design]
