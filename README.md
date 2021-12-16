@@ -11,4 +11,4 @@ Input Image:
 
 Result Image:
 
-![Untitled design](https://user-images.githubusercontent.com/64242103/141048582-ae07f88e-1d91-4752-9d8c-483d7650b181.png)
+![Untitled design]C:\Users\soura\OneDrive\Documents\zzzzz\OCR-main\Result.png
