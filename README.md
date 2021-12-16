@@ -10,5 +10,4 @@ Input Image:
 ![test_img](https://user-images.githubusercontent.com/64242103/141047862-e0055465-3c07-4f74-8143-4cdd09be2e89.png)
 
 Result Image:
-
-![Untitled design](https://user-images.githubusercontent.com/64242103/141048582-ae07f88e-1d91-4752-9d8c-483d7650b181.png)
+![Result](https://user-images.githubusercontent.com/95025371/146374392-577cfb6b-1756-41aa-a423-a5472b38a553.png)
