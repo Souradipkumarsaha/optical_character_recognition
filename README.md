@@ -7,7 +7,7 @@ Libraries used-<a href="https://github.com/tesseract-ocr/tesseract">Tesseract OC
 
 Input Image:
 
-![tst_img](https://user-images.githubusercontent.com/95025371/146375328-19d77473-df85-41ff-98a5-fcee759d5219.png)
+![tst_img_1](https://user-images.githubusercontent.com/95025371/146375328-19d77473-df85-41ff-98a5-fcee759d5219.png)
 
 Result Image:
 
